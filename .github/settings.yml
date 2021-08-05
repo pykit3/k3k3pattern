@@ -1,0 +1,6 @@
+_extends: gh-config
+
+repository:
+  description: Find common prefix of several `string`s, tuples of string, or other nested structure, recursively by default.
+  homepage: https://blog.openacid.com
+  topics: python, pattern
